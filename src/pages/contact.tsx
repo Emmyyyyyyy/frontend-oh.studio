@@ -3,7 +3,6 @@ import Navbar from '../component/navbar'
 export default function Contact() {
   return (
     <>
-      \
       <div className='h-screen flex justify-center items-center flex-col text-7xl xl:text-5xl md:text-4xl font-medium p-[20px] text-center'>
         <p>Let&apos;s work together.</p>
         <p className='opacity-50 hover:opacity-25'>Get in touch.</p>
